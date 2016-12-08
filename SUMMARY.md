@@ -10,5 +10,5 @@
 * [SQL简介](sql简介.md)
 
 ## LINUX
-* LINUX简介
+* [LINUX简介](linux简介.md)
 
