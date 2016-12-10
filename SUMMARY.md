@@ -12,3 +12,6 @@
 ## LINUX
 * [LINUX简介](linux简介.md)
 
+## 学习所遇到的坑
+* [Centos7更换yum源](centos7更换yum源.md)
+
