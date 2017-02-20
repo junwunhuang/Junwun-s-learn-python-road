@@ -11,11 +11,16 @@
 * [第八节 函数](第八节-函数.md)
 
 ## SQL
+
 * [SQL简介](sql简介.md)
 
 ## LINUX
+
 * [LINUX简介](linux简介.md)
 
 ## 学习所遇到的坑
+
 * [Centos7更换yum源](centos7更换yum源.md)
+* [centos7下安装git](centos7git.md)
+* [centos7.3系统备份及安装VirtualBox](centos7.3virtualbox.md)
 
