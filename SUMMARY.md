@@ -23,5 +23,5 @@
 * [Centos7更换yum源](centos7更换yum源.md)
 * [centos7下安装git](centos7git.md)
 * [centos7.3系统备份及安装VirtualBox](centos7.3virtualbox.md)
-* [centos7.3安装pyenv](centos7.3pyenv.md)
+* [centos7.3安装pyenv及pyenv-virtualenv](centos7.3pyenv.md)
 
